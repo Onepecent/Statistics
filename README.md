@@ -1,4 +1,4 @@
-# 稍微学学
+# 【统计学速成课】Statistics
 视频地址 : https://www.bilibili.com/video/BV1B7411v73M/?p=5&amp;spm_id_from=pageDriver&amp;vd_source=619f2ea84d097d616020f74d1643c8f1
 
 ![img](https://i0.hdslb.com/bfs/note/f0a88d5b825ced0d1602fd4dde021614b62bbb69.png)
